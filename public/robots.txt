@@ -1,0 +1,10 @@
+# robots.txt for KHAN HERBAL HUB
+# https://khanherbalhub.tech
+
+User-agent: *
+Allow: /
+Disallow: /api/
+Disallow: /admin
+
+# Sitemap link
+Sitemap: https://khanherbalhub.tech/sitemap.xml

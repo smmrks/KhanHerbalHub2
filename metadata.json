@@ -1,0 +1,6 @@
+{
+  "name": "Khan Herbal Hub",
+  "description": "Premium, natural, and organic herbal products from Bangladesh, delivering health and wellness nationwide.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
